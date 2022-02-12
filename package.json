@@ -1,6 +1,6 @@
 {
   "name": "micro-frontend-cli",
-  "version": "1.0.4",
+  "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "bin": {
@@ -14,8 +14,7 @@
     "lib"
   ],
   "author": {
-    "name": "T-Roc",
-    "email": "lxp_work@163.com"
+    "name": "wzr"
   },
   "keywords": [
     "micro-frontend-cli",
